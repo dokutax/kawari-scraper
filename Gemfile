@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'kawari'
+gem 'nokogiri'
+gem 'json'
+gem 'rake'

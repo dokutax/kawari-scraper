@@ -10,7 +10,7 @@ GEM
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     json (2.1.0)
-    kawari (1.0.1)
+    kawari (1.0.2)
       bunny (~> 2.12)
       dotenv (~> 2.5)
       json (~> 2.1)
@@ -43,10 +43,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  json
-  kawari
-  nokogiri
-  rake
+  json (~> 2.1)
+  kawari (~> 1.0)
+  nokogiri (~> 1.8)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.16.5
